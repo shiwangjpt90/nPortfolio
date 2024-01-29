@@ -1,0 +1,247 @@
+@media screen and (min-width:1024px) and (max-width:1200px){
+    .sub-header1{
+        width: 60%;
+    }
+    .text-main2{
+        margin-left: -125px;
+    }
+    .name{
+        font-size: 60px;
+    }
+    h1#headi{
+        font-size: 48px;
+        padding-top: 90px;
+    }
+    .image img{
+        height: 300px;
+    }
+    .need{
+        width: 64%;
+
+    }
+    .numbers{
+        flex-wrap: wrap;
+    }
+    .right{
+        width: 70%;
+        padding-left: 100px;
+    }
+
+}
+
+@media screen and (min-width:768px) and (max-width:1024px){
+    .sub-header2{
+        padding-right: 0px;
+        width: 30%;
+    }
+    .sub-header1{
+        width: 70%;
+    }
+    .image{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .image img{
+        height: 300px;
+        margin-right: 0px;
+        
+    }
+    .main{
+        flex-direction: column;
+        height: auto;
+        justify-content: center;
+    }
+    .container{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .server{
+        height: 200px;
+        flex-wrap: wrap;
+    }
+    .right{
+        padding-left: 78px;
+    }
+    h1#headi{
+        font-size: 40px;
+    }
+}
+
+@media screen and (min-width:490px) and (max-width:768px){
+    body{
+        padding: 20px 50px;
+    }
+    .main{
+        flex-direction: column;
+        height: auto;
+        justify-content: center;
+    }
+    .name{
+        font-size: 50px;
+    }
+    .container{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .main-header{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+        height: 105px;
+    }
+    .sub-header1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        
+    }
+    .header1{
+        font-size: 40px;
+    }
+    .sub-header2{
+        padding: 0px;
+        justify-content: center;
+        align-items: center;
+    }
+    .server{
+        height: 300px;
+        flex-wrap: wrap;
+    }
+    .footer{
+        flex-direction: column;
+        width: 100%;
+    }
+    .right{
+        padding-left: 0px;
+    }
+
+    .image img{
+        height: 350px;
+       padding-left: 40px;
+    }
+    h1#heading{
+        padding-top: 0px;
+    }
+    .need{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:490px){
+    body{
+        padding: 0px;
+    }
+    .main{
+        flex-direction: column;
+        height: auto;
+        justify-content: center;
+    }
+    .text{
+        font-size: 25px;
+    }
+    .name{
+        font-size: 33px;
+    }
+    .container{
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 10px;
+    }
+    .main-header{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+        height: 105px;
+        width: 100%;
+    }
+    .sub-header1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+        
+    }
+    .header1{
+        font-size: 25px;
+    }
+
+    .section{
+        gap: 10px;
+        justify-content: center;
+        align-items: center;
+        font-size: 15px;
+    }
+
+    .sub-header2{
+        padding: 0px;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .image img{
+        height: 250px;
+        padding-left: 45px;
+    }
+    .server{
+        height: 300px;
+        flex-wrap: wrap;
+    }
+    .footer{
+        flex-direction: column;
+        width: 100%;
+        gap: 30px;
+    }
+    .right{
+        padding-left: 0px;
+        width: 100%;
+    }
+    h1#heading{
+        padding-top: 0px;
+    }
+    .need{
+        width: 100%;
+    }
+    .text11{
+        gap: 0px;
+    }
+    .ui-ux{
+        width: fit-content;
+    }
+    .front-end{
+        width: fit-content;
+    }
+    .mobile-app{
+        width: fit-content;
+    }
+    h1#mob{
+        font-size: 20px;
+    }
+
+    img#one{
+        height: 80px;
+        width: 120px;
+    }
+    img#two{
+        height: 80px;
+        width: 120px;
+    }
+    img#three{
+        height: 80px;
+        width: 120px;
+    }
+    img#four{
+        height: 80px;
+        width: 120px;
+    }
+    .right img{
+        width: 80px;
+    }
+    
+    }
